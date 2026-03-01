@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+tqdm
+
+# ML
+scikit-learn
+lightgbm
+
+# Time-series / feature extraction
+seglearn
+tsflex
+
+# Deep learning (used via: from keras.models / keras.layers)
+tensorflow
+
+# Notebooks
+jupyter
+ipykernel
