@@ -1,4 +1,4 @@
-## Przykłady do wykładu „Analiza szeregów czasowych i prognozowanie”
+## Przykłady analizy szeregów czasowych i prognozowania
 
 Repozytorium zawiera zestaw notebooków prezentujących różne podejścia do analizy danych sekwencyjnych, ekstrakcji cech oraz budowy modeli predykcyjnych i klasyfikacyjnych. Materiały mogą służyć jako przykłady do zajęć, ćwiczeń lub samodzielnej nauki.
 
