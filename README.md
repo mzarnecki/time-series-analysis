@@ -5,6 +5,7 @@
 ### Examples of Time Series Analysis and Forecasting
 
 This repository contains a collection of notebooks presenting different approaches to sequential data analysis, feature extraction, and the development of predictive and classification models. These materials can be used as examples for lectures, exercises, or self-study.
+Repository is available online: https://github.com/mzarnecki/time-series-analysis
 
 ### 1. [time_series_analyze_with_pandas.ipynb](notebook/time_series_analyze_with_pandas.ipynb)
 An introductory notebook on time series analysis using the pandas library. It demonstrates working with time indexes, data filtering, resampling, aggregation, and basic techniques for time-based data exploration and visualization.
@@ -28,6 +29,7 @@ This notebook shows an example of predicting *Freezing of Gait (FoG)* episodes i
 ### Przykłady analizy szeregów czasowych i prognozowania
 
 Repozytorium zawiera zestaw notebooków prezentujących różne podejścia do analizy danych sekwencyjnych, ekstrakcji cech oraz budowy modeli predykcyjnych i klasyfikacyjnych. Materiały mogą służyć jako przykłady do zajęć, ćwiczeń lub samodzielnej nauki.
+Repozytorium jest dostępne pod adresem URL: https://github.com/mzarnecki/time-series-analysis
 
 ### 1. [time_series_analyze_with_pandas.ipynb](notebook/time_series_analyze_with_pandas.ipynb)
 Materiał wprowadzający do analizy szeregów czasowych z użyciem biblioteki pandas. Pokazuje pracę z indeksami czasowymi, filtrowanie danych, resampling, agregację oraz podstawowe techniki eksploracji i wizualizacji danych w czasie.
