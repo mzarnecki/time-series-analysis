@@ -22,6 +22,21 @@ This notebook presents the analysis of a siren audio signal and its classificati
 ### 5. [parkinson_fog_prediction.ipynb](notebook/en/parkinson_fog_prediction.ipynb)
 This notebook shows an example of predicting *Freezing of Gait (FoG)* episodes in people with Parkinson’s disease based on time series data. It illustrates sequential data preparation, signal analysis, and the development of a model supporting a classification task in a medical data context.
 
+### Articles
+You can find an explanation of the notebook code in a series of articles on medium.com:
+
+Part 1: Fundamentals, Use Cases, and a Case Study from Parkinson’s Disease:
+
+https://medium.com/@brightcode/time-series-analysis-and-forecasting-part-1-fundamentals-use-cases-and-a-case-study-from-954496437d8b
+
+Part 2: Data Preparation with Pandas:
+
+https://medium.com/@brightcode/time-series-analysis-and-forecasting-part-2-data-preparation-with-pandas-39b5506fdd77
+
+Part 3: Forecasting Models, Evaluation, and Practical Cases:
+
+https://medium.com/@brightcode/time-series-analysis-and-forecasting-part-3-forecasting-models-evaluation-and-practical-cases-2caf95217532
+
 ---
 
 ## PL
@@ -45,3 +60,19 @@ Notebook przedstawia analizę sygnału audio syreny oraz jego klasyfikację. Zaw
 
 ### 5. [parkinson_fog_prediction.ipynb](notebook/parkinson_fog_prediction.ipynb)
 Notebook pokazuje przykład predykcji epizodów *Freezing of Gait (FoG)* u osób z chorobą Parkinsona na podstawie danych czasowych. Materiał ilustruje przygotowanie danych sekwencyjnych, analizę sygnałów oraz budowę modelu wspierającego zadanie klasyfikacyjne w kontekście danych medycznych.
+
+### Artykuły
+
+Wytłumaczenie kodu notebooków znajdziesz w serii artykułów na medium.com:
+
+Część 1:
+
+https://medium.com/@brightcode/time-series-analysis-and-forecasting-part-1-fundamentals-use-cases-and-a-case-study-from-954496437d8b
+
+Część 2:
+
+https://medium.com/@brightcode/time-series-analysis-and-forecasting-part-2-data-preparation-with-pandas-39b5506fdd77
+
+Część 3:
+
+https://medium.com/@brightcode/time-series-analysis-and-forecasting-part-3-forecasting-models-evaluation-and-practical-cases-2caf95217532
